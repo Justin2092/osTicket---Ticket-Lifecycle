@@ -41,7 +41,7 @@ In the image above, a ticket has been created and assigned to Jane from Karen. T
 <img src="https://imgur.com/CPwwXoB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The image above shows a more discriptive version of the ticket, when opened by Jane. This ticket stats that the mobile online banking is down for customers. Notice Jane can she details like
+The image above shows a more discriptive version of the ticket, when opened by Jane. This ticket stats that the mobile online banking is down for customers. Notice Jane can she details like the Priority of the ticket, which in this case is Emergency, as well as the Help Topic, which is set to Business Critical Outage. 
 </p>
 <br />
 
