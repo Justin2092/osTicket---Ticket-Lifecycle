@@ -57,4 +57,4 @@ The above image shows a post response from Jane after reviewing the ticket. It s
 <img src="https://imgur.com/cLvX66h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Seen above is a follow up post from Jane after coordinating with the System Administrator Team. It states that Jerry from Sys Engineering found and corrected a failed load balancer and that mobile online banking should be back online. You can see that the Ticket Status has been set to resolved.
