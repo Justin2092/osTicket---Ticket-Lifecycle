@@ -41,7 +41,7 @@ In the image above, a ticket has been created and assigned to Jane from Karen. T
 <img src="https://imgur.com/CPwwXoB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The image above shows a more discriptive version of the ticket, when opened by Jane. This ticket stats that the mobile online banking is down for customers. Notice Jane can she details like
 </p>
 <br />
 
