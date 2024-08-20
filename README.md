@@ -49,7 +49,7 @@ The image above shows a more discriptive version of the ticket, when opened by J
 <img src="https://imgur.com/DxSil5u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The above image shows a post response from Jane after reviewing the ticket. It states that she will have to coordinate with the System Administrator Team to bring mobile online banking back online. This is good practice to update management or the client, that the issue is being looked into.
 </p>
 <br />
 
